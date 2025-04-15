@@ -2,13 +2,15 @@
     <mj-head>
         <mj-title>UGG Royale</mj-title>
         <mj-attributes>
-            <mj-class name="body-text" font-family="Open Sans, Arial, sans-serif" color="#111111" font-size="16px" line-height="26px" align="left"></mj-class>
+            <mj-class name="body-text" font-family="Open Sans, Arial, sans-serif" color="#111111"
+                      font-size="16px" line-height="26px" align="left"></mj-class>
         </mj-attributes>
 
     </mj-head>
     <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
 
-        <mj-section background-color="#F4F4F4" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 20px 0">
+        <mj-section background-color="#F4F4F4" background-repeat="no-repeat" text-align="center"
+                    vertical-align="top" padding="0 0 20px 0">
 
             <mj-column>
                 <mj-text mj-class="body-text"><center>Dear Anna!</center><br>
