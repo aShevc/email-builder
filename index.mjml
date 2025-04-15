@@ -1,0 +1,45 @@
+<mjml>
+    <mj-head>
+        <mj-title>UGG Royale</mj-title>
+        <mj-attributes>
+            <mj-class name="body-text" font-family="Open Sans, Arial, sans-serif" color="#111111" font-size="16px" line-height="26px" align="left"></mj-class>
+        </mj-attributes>
+
+    </mj-head>
+    <mj-body background-color="#F4F4F4" color="#55575d" font-family="Arial, sans-serif">
+
+        <mj-section background-color="#F4F4F4" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 20px 0">
+
+            <mj-column>
+                <mj-text mj-class="body-text"><center>Dear Anna!</center><br>
+                    I hope this message find you well!
+                    As a wedding photographer based in Portugal, I have been following your incredible work, and I am truly inspired by the elegance and creativity of your wedding projects. Your style aligns perfectly with the kind of weddings I love to capture, and I would be happy to collaborate with you to create unforgettable memories for your couples.
+                    Below, you will find more detailed information about my services.</mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#F4F4F4" background-repeat="no-repeat" text-align="center" vertical-align="top" padding="0 0 0 0">
+            <mj-column>
+                <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px"
+                          padding-right="0px" padding="0px 25px"
+                          src="https://ashevc.github.io/email-builder/test-image.jpg"
+                          target="_blank" title="" width="780px"></mj-image>
+            </mj-column>
+        </mj-section>
+
+        <mj-section padding-bottom="20px" padding-top="10px">
+            <mj-column>
+
+            </mj-column>
+            <mj-column>
+                <mj-button background-color="#000000" color="#FFFFFF" href="https://mjml.io" font-family="Arial, sans-serif" padding="20px 0 0 0" font-weight="bold" font-size="16px">INSTAGRAM</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-button background-color="#000000" color="#FFFFFF" href="https://mjml.io" font-family="Arial, sans-serif" padding="20px 0 0 0" font-weight="bold" font-size="16px">WEBSITE</mj-button>
+            </mj-column>
+            <mj-column>
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
