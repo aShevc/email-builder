@@ -44,9 +44,9 @@
         <mj-section padding-bottom="20px" padding-top="10px">
             <mj-column width="100%">
                 <mj-navbar base-url="https://mjml.io" ico-color="#fa8739" padding-top="5px">
-                    <mj-navbar-link href="https://mjml.io" color="#000000" font-weight="bold" font-size="16px" padding-right="30px">INSTAGRAM</mj-navbar-link>
+                    <mj-navbar-link href="https://www.instagram.com/snezhkoanna/" color="#000000" font-weight="bold" font-size="16px" padding-right="30px">INSTAGRAM</mj-navbar-link>
                     <mj-navbar-link href="https://mjml.io" font-weight="bold" font-size="16px"color="#000000" padding-right="30px" padding-left="30px">EMAIL</mj-navbar-link>
-                    <mj-navbar-link href="https://mjml.io" color="#000000" font-weight="bold" font-size="16px" padding-left="30px">WEBSITE</mj-navbar-link>
+                    <mj-navbar-link href="https://snezhkoanna.com/" color="#000000" font-weight="bold" font-size="16px" padding-left="30px">WEBSITE</mj-navbar-link>
                 </mj-navbar>
             </mj-column>  </mj-section>
 
