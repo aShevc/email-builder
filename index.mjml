@@ -38,15 +38,15 @@
 
         <mj-section padding-bottom="0px" padding-top="10px">
             <mj-column>
-                <mj-button background-color="#000000" color="#FFFFFF" href="https://ashevc.github.io/email-builder/wpp.pdf" font-family="Arial, sans-serif" padding="20px 0 0 0" font-weight="bold" text-align="center" font-size="16px" >FULL PRESENTATION</mj-button>
+                <mj-button background-color="#F7E7CE" color="#6F4E37" href="https://ashevc.github.io/email-builder/wpp.pdf" font-family="Arial, sans-serif" padding="20px 0 0 0" font-weight="bold" text-align="center" font-size="16px" >FULL PRESENTATION</mj-button>
             </mj-column>
         </mj-section>
         <mj-section padding-bottom="20px" padding-top="10px">
             <mj-column width="100%">
                 <mj-navbar ico-color="#fa8739" padding-top="5px">
-                    <mj-navbar-link href="https://instagram.com/snezhkoanna" color="#000000" font-weight="bold" font-size="16px" padding-right="30px">INSTAGRAM</mj-navbar-link>
-                    <mj-navbar-link href="mailto:snezhkoanna.photo@gmail.com" font-weight="bold" font-size="16px"color="#000000" padding-right="30px" padding-left="30px">EMAIL</mj-navbar-link>
-                    <mj-navbar-link href="https://snezhkoanna.com" color="#000000" font-weight="bold" font-size="16px" padding-left="30px">WEBSITE</mj-navbar-link>
+                    <mj-navbar-link href="https://instagram.com/snezhkoanna" color="#6F4E37" font-weight="bold" font-size="16px" padding-right="30px">INSTAGRAM</mj-navbar-link>
+                    <mj-navbar-link href="mailto:snezhkoanna.photo@gmail.com" font-weight="bold" font-size="16px"color="#6F4E37" padding-right="30px" padding-left="30px">EMAIL</mj-navbar-link>
+                    <mj-navbar-link href="https://snezhkoanna.com" color="#6F4E37" font-weight="bold" font-size="16px" padding-left="30px">WEBSITE</mj-navbar-link>
                 </mj-navbar>
             </mj-column>  </mj-section>
 
